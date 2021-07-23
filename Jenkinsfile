@@ -11,7 +11,7 @@ pipeline
                 {
                     try
                     {
-                         git 'https://github.com/intelliqittrainings/mavenq.git'
+                         git 'https://github.com/aquibhub/piplinecode.git'
                     }
                     catch(Exception e1)
                     {
